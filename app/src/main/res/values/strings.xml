@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="alert_text">Alert title</string>
+    <string name="message_text">Do you want to exit?</string>
+</resources>
